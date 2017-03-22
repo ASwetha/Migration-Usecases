@@ -7,7 +7,7 @@
    <repositories>
       <repository>
          <id>cc2git</id>
-         <url>http://localhost:9081/nexus/content/repositories/cc2git/</url>
+         <url>http://10.200.209.16:9081/nexus/content/repositories/cc2git/</url>
       </repository>     
 	</repositories>
 
